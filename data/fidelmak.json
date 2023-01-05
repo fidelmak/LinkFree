@@ -5,4 +5,21 @@
   "type": "personal",
   "bio": "JavaScript developer **lover of Frontend Development**. currently learning flutter and dart cionado",
   "avatar": "https://github.com/fidelmak.png"
+  
+  
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/delisigib",
+      "icon": "FaTwitter"
+    }
+    
+
+     
+
+
+  ]
+  
+  
+  
 }
